@@ -1,3 +1,5 @@
+## *Moved to vscode, docker based project template, please see [UPT](https://github.com/timetravelCat/UPT).*
+
 # cpp-cmake-template
 
 # Features
